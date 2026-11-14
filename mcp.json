@@ -1,0 +1,11 @@
+{
+  "name": "mcp-go-cyber-recon",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_cyber_recon",
+      "description": "Execute cyber-recon MCP tool"
+    }
+  ]
+}
